@@ -12,6 +12,6 @@ I live in Cagliari, Sardinia and I work as a software analyst/developer at [Xoro
 Altough I really like computer science I'm really into other things as well: books, cycling, gardening, great outdoors, green tech, design and some more.
 
 ## Social and links
-[Twitter](http://twitter.com/nicola_orritos "Twitter")
-[Google+](https://plus.google.com/+NicolaOrritos "Google plus")
-[LinkedIn](http://it.linkedin.com/in/nicolaorritos/ "LinkedIn")
+[Twitter](http://twitter.com/nicola_orritos "Twitter")<br>
+[Google+](https://plus.google.com/+NicolaOrritos "Google plus")<br>
+[LinkedIn](http://it.linkedin.com/in/nicolaorritos/ "LinkedIn")<br>
