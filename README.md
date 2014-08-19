@@ -7,14 +7,16 @@ I live in Cagliari, Sardinia and I work as a software analyst/developer at [Xoro
 I was born October, 22 in 1983 and I've always lived in Sardinia.
 
 ## Projects
-(coming soon)
++ __[bagarino](http://github.com/NicolaOrritos/bagarino "bagarino")__: tickets/tokens REST service, made to distribute and validate unique alphanumeric tickets which expiration can be fine-tuned using different policies
++ __[versioncheck](http://github.com/NicolaOrritos/versioncheck "versioncheck")__: minimal REST server hosting a list of apps/services/documents(/everything) versions and telling clients whether they should (or must) upgrade to a new one
++ __[sjl](http://github.com/NicolaOrritos/sjl "sjl")__: _Simple Json Loader_ is a node module that, well, simply loads some JSON from a file, returning an object
 
 ### Interests
 Altough I really like computer science I'm really into other things as well: books, cycling, gardening, great outdoors, green tech, design and some more.
 
 ## Curriculum Vitae - EN
 #### October  2002
-Started the CS degree at University of Cagliari.
+Started a CS degree at University of Cagliari.
 
 #### February 2006
 Graduated with 107/110.
@@ -86,7 +88,7 @@ Sono skillato nel modellare sistemi software a i dati che essi elaborano, cos' c
 Sono uno sviluppatore esperto su diverse piattaforme: NodeJS, HTML5 e CSS3, Linux, Java server-side, Qt (sia Windows che OSX) e Microsoft Windows (sia su desktop che tablets).
 Conosco bene sia soluzioni SQL che NoSQL: in passato ho lavorato molto con MySQL e Postgres e attualmente sto sviluppando soluzioni basate su Redis e RethinkDB.
 Ho una conoscenza elementare dello sviluppo Android, iOS e Windows Phone e anche dello sviluppo mobile basato su Cordova/Phonegap.
-Ho una buona conoscenza anche di sltri linguaggi, quali PHP, Bash e C.
+Ho una buona conoscenza anche di altri linguaggi, quali PHP, Bash e C.
 Infine lavoro abitualmente con sistemi quali Apache e Monit, e sono in grado di configurare sistemi basati su Linux.
 
 #### Maggiori informazioni
