@@ -15,3 +15,10 @@ h3 {
     font-size: 1em;
     font-weight: bold;
 }
+
+.content h1:before,
+.content h2:before,
+.content .big-heading:before,
+body.big-h3 .content h3:before {
+    content: none;
+}

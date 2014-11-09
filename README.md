@@ -1,10 +1,14 @@
 What ends the night is in turn ended by the night
 =================================================
 
+<img src="images/mezzobusto.small.jpg" style="float:right;margin:0;">
+
 Hi, I'm Nicola Orritos: a proud son, a stubborn boyfriend, an older brother, a Sardinian man and a software craftsman.
 
 I live in Cagliari, Sardinia and I work as a software analyst/developer at [Xorovo](http://www.xorovo.com "Xorovo"), an [Applix Group](http://www.applixgroup.com/ "Applix Group") company.
 I was born October, 22 in 1983 and I've always lived in Sardinia.
+
+
 
 ## Projects
 + __[bagarino](http://github.com/NicolaOrritos/bagarino "bagarino")__: tickets/tokens REST service, made to distribute and validate unique alphanumeric tickets which expiration can be fine-tuned using different policies
