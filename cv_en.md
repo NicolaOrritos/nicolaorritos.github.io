@@ -1,4 +1,9 @@
-# Curriculum Vitae
+# Nicola Orritos - Curriculum Vitae
+
+<img src="images/mezzobusto.small.jpg" width="160" height="160">  
+I was born in Ozieri October, 22 in 1983.  
+I currently live in Cagliari.  
+
 ## Experience
 #### October  2002
 Started a CS degree at University of Cagliari.
@@ -37,4 +42,4 @@ I know a decent amount of PHP, Bash and C.
 Finally I work with Apache, Monit and I know how to configure Linux-based systems.
 
 ## More
-For more details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/ "LinkedIn profile").
+For more details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/) and [resume](http://resume.linkedinlabs.com/3bz3o49yc).
