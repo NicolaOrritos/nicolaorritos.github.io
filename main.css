@@ -22,3 +22,11 @@ h3 {
 body.big-h3 .content h3:before {
     content: none;
 }
+
+.header {
+    background-color: #e6e7f6;
+}
+
+.content img {
+    margin-bottom: 1em;
+}
