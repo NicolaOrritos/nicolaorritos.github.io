@@ -28,8 +28,8 @@ Vengo richiamato a _Xorovo_, che ora fa parte del gruppo _Applix_, e inserito al
 Il progetto è _Vodafone Calcio_, app di streaming del campionato di Serie A, che include anche una piattaforma social di condivisione tramite Twitter e Facebook.
 
 #### Presente
-Attualmente presso Xorovo sono architect e sviluppatore dello sfogliatore web che è parte di _Viewer+_, prodotto di punta di Applix & Xorovo.  
-Sono poi sviluppatore C++/Qt, dello stesso prodotto sia per piattaforme Windows che OSX, nonchè progettista e sviluppatore C# di app Viewer+ basate su Microsoft _"Modern" UI_.  
+Attualmente presso Xorovo sono architect e sviluppatore dello sfogliatore web parte di _Viewer+_, prodotto di punta di Applix & Xorovo.  
+Sono poi sviluppatore C++/Qt dello stesso prodotto, sia per piattaforme Windows che OSX, nonchè progettista e sviluppatore C# di app Viewer+ basate su Microsoft _"Modern" UI_.  
 Sono infine attivo sulla scena Open-source con alcuni progetti personali: alcuni di essi sono basati su NodeJS, altri su HTML5 e Cordova/Phonegap.  
 Uno di questi progetti, __"bagarino"__, è correntemente utilizzato sui server di produzione a Xorovo.
 
