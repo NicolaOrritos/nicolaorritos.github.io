@@ -1,0 +1,28 @@
+@media print {
+    
+    html {
+        font-family: "Open Sans", sans-serif;
+        
+        height:  100%;
+        width:   100%;
+        margin:  0;
+        padding: 0;
+        
+        text-align: justify;
+    }
+    
+    body {
+        height:  90%;
+        width:   90%;
+        margin:  2em;
+        padding: 0;
+    }
+    
+    .header {
+        display: none;
+    }
+    
+    .menubar {
+        display: none;
+    }
+}
