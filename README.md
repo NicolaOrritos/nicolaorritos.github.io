@@ -1,11 +1,8 @@
-What ends the night is in turn ended by the night
-=================================================
-
 <img src="images/mezzobusto.small.jpg" style="float:right;margin:0;">
 
-Hi, I'm Nicola Orritos: a proud son, a stubborn boyfriend, an older brother, a Sardinian man and a software craftsman.
+Hi, I'm Nicola Orritos, proud son, stubborn boyfriend, older brother, Sardinian man and software craftsman.
 
-I live in Cagliari, Sardinia and I work as a software analyst/developer at [Xorovo](http://www.xorovo.com "Xorovo"), an [Applix Group](http://www.applixgroup.com/ "Applix Group") company.
+I live in Cagliari, Sardinia and I work as a software architect at [Xorovo](http://www.xorovo.com "Xorovo"), an [Applix Group](http://www.applixgroup.com/ "Applix Group") company.
 I was born October, 22 in 1983 and I've always lived in Sardinia.
 
 
@@ -17,12 +14,12 @@ I was born October, 22 in 1983 and I've always lived in Sardinia.
 + __[pathrewrite](http://github.com/NicolaOrritos/pathrewrite "pathrewrite")__: node module for rewriting arbitrary parts of a path based on a set of user-defined rules
 + __[hungry](http://github.com/NicolaOrritos/hungry "hungry")__: node module made to easily parse RSS/Atom feeds
 
-### Interests
+## Interests
 Altough I really like computer science I'm really into other things as well: books, cycling, gardening, great outdoors, green tech, design and some more.
 
-## [Curriculum Vitae - EN](cv_en.html "Curriculum Vitae - English")
-
-## [Curriculum Vitae - IT](cv_it.html "Curriculum Vitae - Italiano")
+## Curricula
+[Curriculum Vitae - EN](cv_en.html "Curriculum Vitae - English")  
+[Curriculum Vitae - IT](cv_it.html "Curriculum Vitae - Italiano")
 
 ## Social and links
 [Twitter](http://twitter.com/nicola_orritos "Twitter")  

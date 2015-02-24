@@ -28,7 +28,7 @@ Vengo richiamato a _Xorovo_, che ora fa parte del gruppo _Applix_, e inserito al
 Il progetto è _Vodafone Calcio_, app di streaming del campionato di Serie A, che include anche una piattaforma social di condivisione tramite Twitter e Facebook.
 
 #### Presente
-Attualmente presso Xorovo sono sviluppatore e progettista dello sfogliatore web che è parte di _Viewer+_, prodotto di punta di Applix & Xorovo.  
+Attualmente presso Xorovo sono architect e sviluppatore dello sfogliatore web che è parte di _Viewer+_, prodotto di punta di Applix & Xorovo.  
 Sono poi sviluppatore C++/Qt, dello stesso prodotto sia per piattaforme Windows che OSX, nonchè progettista e sviluppatore C# di app Viewer+ basate su Microsoft _"Modern" UI_.  
 Sono infine attivo sulla scena Open-source con alcuni progetti personali: alcuni di essi sono basati su NodeJS, altri su HTML5 e Cordova/Phonegap.  
 Uno di questi progetti, __"bagarino"__, è correntemente utilizzato sui server di produzione a Xorovo.
@@ -47,3 +47,6 @@ Infine lavoro abitualmente con sistemi quali Apache e Monit, e sono in grado di 
 
 ## Maggiori informazioni
 Per ulteriori dettagli consultate il mio profilo [LinkedIn](http://it.linkedin.com/in/nicolaorritos/) e relativo [resume](http://resume.linkedinlabs.com/3bz3o49yc).
+
+Autorizzo il trattamento dei miei dati personali ai sensi del Decreto Legislativo 30 giugno 2003, n. 196,
+"Codice in materia di protezione dei dati personali".

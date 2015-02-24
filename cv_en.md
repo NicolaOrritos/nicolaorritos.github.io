@@ -26,7 +26,7 @@ Back at Xorovo, now an _Applix Group_ company, where I took part in a project fo
 _Vodafone Calcio_ is the streaming app for Italy's _Serie A_ tournament; this app also includes a social platform where tweets and facebook posts can be exchanged among people watching the same match.
 
 #### Now
-At Xorovo I'm lead developer of the web magazines viewer, part of the company's flagship product _Viewer+_.  
+At Xorovo I'm web architect and lead developer of the web magazines viewer, part of the company's flagship product _Viewer+_.  
 For that project I am also a developer of the desktop versions, one based on _Qt 5_ (both for OSX and for Windows) and the other based on Microsoft _"Modern" UI_ and written in C#.  
 I'm also creator and mantainer of some personal projects: part of them are based on NodeJS, part are HTML5 web-apps, part are Cordova/Phonegap apps.  
 One of these projects, __"bagarino"__, has been _battle-tested_ on production servers here at Xorovo.
