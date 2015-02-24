@@ -127,7 +127,7 @@ input {
   }
 }
 a {
-  color: #2badad;
+  color: #246060;
   text-decoration: none;
 }
 a:hover {
@@ -634,7 +634,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 .header h1,
 .header h1 a,
 .header h1 a:visited {
-  color: #9090aa;
+  color: #909aaa;
 }
 .header h1 a:hover {
   color: #505050;
@@ -788,7 +788,7 @@ a.big.button:hover:visited {
 }
 .menu a,
 .menu a:visited {
-  color: #2badad;
+  color: #246060;
 }
 .menu a:hover {
   color: #228a8a;
