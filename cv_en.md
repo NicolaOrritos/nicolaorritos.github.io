@@ -51,4 +51,4 @@ I worked with Apache, Nginx and I know how to configure Linux-based systems (Arc
 Lately I'm focusing my efforts in studying Data Science with Python, mainly because I'm eager to dive in the Machine Learning field.
 
 ## More
-For more details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/) and [resume](http://resume.linkedinlabs.com/3bz3o49yc).
+For more details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/).
