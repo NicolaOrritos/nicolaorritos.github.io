@@ -2,7 +2,9 @@
 
 <img src="images/mezzobusto.small.jpg" width="160" height="160">  
 I was born in Ozieri October, 22 in 1983.  
-I currently live in Cagliari.  
+I currently live in Serdiana, near Cagliari.  
+
+[@GitHub](https://github.com/NicolaOrritos) - [@LinkedIn](https://www.linkedin.com/in/nicolaorritos)
 
 ## Experience
 #### October  2002
@@ -22,24 +24,31 @@ Two years with _Akhela_ were I worked as a requirements analyst and developer wi
 For a brief time I was also in charge of handling bugs and Change Requests for the same team, collaborating with teams from Akhela, BMW, Magneti Marelli, Windriver and other companies involved in the project.
 
 #### April 2012
-Back at Xorovo, now an _Applix Group_ company, where I took part in a project for __Vodafone Italia__ as a backend Java developer.  
-_Vodafone Calcio_ is the streaming app for Italy's _Serie A_ tournament; this app also includes a social platform where tweets and facebook posts can be exchanged among people watching the same match.
+Back at Xorovo (which became an _Applix Group_ company in the meanwhile) where I took part in a project for __Vodafone Italia__ as a backend Java developer.  
+The focus of the project it's been the creation of a streaming app for Italy's _Serie A_ tournament which included a social platform where tweets and facebook posts could be exchanged among people watching the same match.
 
-#### Now
-At Xorovo I'm web architect and lead developer of the web magazines viewer, part of the company's flagship product _Viewer+_.  
-For that project I am also a developer of the desktop versions, one based on _Qt 5_ (both for OSX and for Windows) and the other based on Microsoft _"Modern" UI_ and written in C#.  
-I'm also creator and mantainer of some personal projects: part of them are based on NodeJS, part are HTML5 web-apps, part are Cordova/Phonegap apps.  
-One of these projects, __"bagarino"__, has been _battle-tested_ on production servers here at Xorovo.
+#### January 2014
+Web architect and lead developer of the web magazines viewer, part of the company's flagship product _Viewer+_.  
+Also a developer of the desktop versions, one based on _Qt 5_ (both for OSX and for Windows) and the other based on Microsoft _"Modern" UI_ and written in C#.  
+Creator and mantainer of many personal projects: most of them are based on NodeJS, a few are HTML5 web-apps.  
+Some of these projects (_"bagarino"_, _"progenic/probiotic"_, _"conf.d"_ and others) have been adopted and _battle-tested_ on production servers here at Xorovo.
+
+#### January 2017
+Web architect for a new (somewhat secret) project; working with a (M)EAN stack, Grunt, Protractor, Karma, Jenkins and a couple more.  
+Teaching myself Python, Data Science and Machine Learning during my free-time.
+
 
 ## Skills
-During these years I developed a strong OOP background in many languages, mainly C++, C# and Java; currently I'm combining it with asyncronous programming and Javascript.  
-Server-side Javascript is the platform I'm studying the most: I'm studying ES6 innovations and working with Express, Grunt, Jade, Cheerio, Cordova node module and others.  
-I do a really good job at modelling systems and their data as well as re-engineering them (given they're not too much _spaghetti-designed_, that is).  
-I'm a proficient developer on different platforms: NodeJS, HTML5 and CSS3, Linux, server-side Java, Qt (both Windows and OSX) and Microsoft Windows (both desktop and tablets).  
-I know pretty well some SQL solutions and NoSQL ones: I worked in the past with MySQL and Postgres and now I'm developing solutions based on Redis and RethinkDB.  
-I have some elements of Android, iOS and Windows Phone development as well as Cordova/Phonegap.  
+During these years I developed a strong OOP background in many languages (mainly C++, C# and Java) but I'm currently absorbed by asyncronous programming and Javascript, as well as REST architectures.  
+Server-side Javascript is the platform I'm versed the most: I've been an enthusiast adopter of ES6 and Promises, working with Express, Restify, Grunt, many different and popular node modules and the NodeJS ecosystem in general, contributing to the adoption of microservices-based architectures in production environments.
+In general I do a really good job at modelling systems and their data.  
+
+I know pretty well some SQL solutions and NoSQL ones: I worked in the past with MySQL and Postgres and I developed solutions based on Redis and MongoDB/RethinkDB.  
+I have some elements of Electron, Android, iOS and Windows Phone development as well as Cordova/Phonegap.
 I know a decent amount of PHP, Bash and C.  
-Finally I work with Apache, Monit and I know how to configure Linux-based systems.
+I worked with Apache, Nginx and I know how to configure Linux-based systems (Arch Linux, Amazon AMI Linux, Debian-based).  
+
+Lately I'm focusing my efforts in studying Data Science with Python, mainly because I'm eager to dive in the Machine Learning field.
 
 ## More
 For more details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/) and [resume](http://resume.linkedinlabs.com/3bz3o49yc).

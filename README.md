@@ -1,6 +1,6 @@
 <img src="images/mezzobusto.small.jpg" style="float:right;margin:0;">
 
-Hi, I'm Nicola Orritos, proud son, stubborn boyfriend, older brother, Sardinian man and software craftsman.
+Hi, I'm Nicola Orritos, software craftsman (and a few more things).
 
 I live in Cagliari, Sardinia and I work as a software architect at [Xorovo](http://www.xorovo.com "Xorovo"), an [Applix Group](http://www.applixgroup.com/ "Applix Group") company.
 I was born October, 22 in 1983 and I've always lived in Sardinia.
@@ -15,7 +15,7 @@ I was born October, 22 in 1983 and I've always lived in Sardinia.
 + __[hungry](http://github.com/NicolaOrritos/hungry "hungry")__: node module made to easily parse RSS/Atom feeds
 
 ## Interests
-Altough I really like computer science I'm really into other things as well: books, cycling, gardening, great outdoors, green tech, design and some more.
+Altough I really like Computer Science I'm into other things as well: books, cycling, gardening, great outdoors, green tech, design and some more.
 
 ## Curricula
 [Curriculum Vitae - EN](cv_en.html "Curriculum Vitae - English")  
@@ -23,5 +23,4 @@ Altough I really like computer science I'm really into other things as well: boo
 
 ## Social and links
 [Twitter](http://twitter.com/nicola_orritos "Twitter")  
-[Google+](https://plus.google.com/+NicolaOrritos "Google plus")  
 [LinkedIn](http://it.linkedin.com/in/nicolaorritos/ "LinkedIn")  
