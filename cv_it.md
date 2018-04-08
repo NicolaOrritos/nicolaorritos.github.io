@@ -30,16 +30,16 @@ Il progetto è _Vodafone Calcio_, app di streaming del campionato di Serie A, ch
 #### Presente
 Attualmente presso Xorovo sono architect e sviluppatore dello sfogliatore web parte di _Viewer+_, prodotto di punta di Applix & Xorovo.  
 Sono poi sviluppatore C++/Qt dello stesso prodotto, sia per piattaforme Windows che OSX, nonchè progettista e sviluppatore C# di app Viewer+ basate su Microsoft _"Modern" UI_.  
-Sono infine attivo sulla scena Open-source con alcuni progetti personali: alcuni di essi sono basati su NodeJS, altri su HTML5 e Cordova/Phonegap.  
+Sono infine attivo sulla scena Open-source con alcuni progetti personali: alcuni di essi sono basati su Node.js, altri su HTML5 e Cordova/Phonegap.  
 Uno di questi progetti, __"bagarino"__, è correntemente utilizzato sui server di produzione a Xorovo.
 
 ## Competenze
 In questi anni ho sviluppato un background OOP piuttosto solido in più di un linguaggio di programmazione: i principali sono sicuramente C++, C# e Java;
 attualmente sto combinando queste conoscenze con lo sviluppo asincrono in Javascript.  
-Ultimamente mi occupo molto di sviluppo lato-server con NodeJS: sto studiando le innovazioni presenti in ES6 e lavoro con Express, Grunt, Jade, Cheerio,
+Ultimamente mi occupo molto di sviluppo lato-server con Node.js: sto studiando le innovazioni presenti in ES6 e lavoro con Express, Grunt, Jade, Cheerio,
 il modulo node di Apache Cordova e altri.  
 Ho ottime capacità di modellazione di sistemi software e basi di dati complesse oltre che del refactoring di sistemi preesistenti.  
-Sono uno sviluppatore esperto su diverse piattaforme: NodeJS, HTML5 e CSS3, Linux, Java server-side, Qt (sia Windows che OSX) e Microsoft Windows (sia su desktop che tablets).  
+Sono uno sviluppatore esperto su diverse piattaforme: Node.js, HTML5 e CSS3, Linux, Java server-side, Qt (sia Windows che OSX) e Microsoft Windows (sia su desktop che tablets).  
 Conosco bene sia soluzioni SQL che NoSQL: in passato ho lavorato con MySQL e Postgres e attualmente sto sviluppando soluzioni basate su Redis e RethinkDB.  
 Ho una conoscenza elementare dello sviluppo Android, iOS e Windows Phone e anche dello sviluppo mobile basato su Cordova/Phonegap.  
 Ho una buona conoscenza anche di altri linguaggi, quali PHP, Bash e C.  
