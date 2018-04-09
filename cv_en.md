@@ -1,6 +1,6 @@
 # Nicola Orritos - Curriculum Vitae
 
-<img src="images/mezzobusto_2.small.jpg" width="160" height="160">  
+<img src="images/me_2.jpg" width="160" height="160">  
 
 ## At a glance
 
