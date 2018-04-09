@@ -1,6 +1,9 @@
 # Nicola Orritos - Curriculum Vitae
 
-<img src="images/me_2.jpg" width="160" height="160">  
+<div class="picture">
+    <img src="images/me_2.jpg" width="180px" height="180px">
+</div>  
+
 
 ## At a glance
 
@@ -9,8 +12,12 @@ I'm a software engineer specialized in microservices and the Node.js stack.
 I was born in Ozieri October, 22 in 1983.  
 I currently live in Serdiana, near Cagliari, Sardinia.  
 
+
+### Links
+
 [@Website](http://nicolaorritos.github.io) -
-[@GitHub](https://github.com/NicolaOrritos) - [@LinkedIn](https://www.linkedin.com/in/nicolaorritos)
+[@GitHub](https://github.com/NicolaOrritos) -
+[@LinkedIn](https://www.linkedin.com/in/nicolaorritos)
 
 
 ## Experience

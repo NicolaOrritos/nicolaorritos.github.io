@@ -30,3 +30,12 @@ body.big-h3 .content h3:before {
 .content img {
     margin-bottom: 1em;
 }
+
+.picture {
+    float: right;
+    margin: 1em 0 0 2em;
+}
+
+#nicola-orritos-curriculum-vitae-at-a-glance {
+    padding-top: 0.5em;
+}
