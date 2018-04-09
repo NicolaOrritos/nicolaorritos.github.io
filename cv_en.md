@@ -1,4 +1,5 @@
-# Nicola Orritos - Curriculum Vitae
+Nicola Orritos - Curriculum Vitae
+=================================
 
 <div class="picture">
     <img src="images/me_2.jpg" width="180px" height="180px">
