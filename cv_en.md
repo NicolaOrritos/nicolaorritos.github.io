@@ -66,6 +66,8 @@ I worked with Apache, Nginx and I know how to configure Linux-based systems (Arc
 Lately I'm focusing my efforts in studying Data Science with Python, mainly because I'm eager to dive in the Machine Learning field.  
 I also studied two blockchain platforms, Bitcoin and Ethereum, focusing my efforts on the Solidity smart-contracts language and on _Dapps_ (Ethereum _Distributed apps_) development using _web3.js_.
 
+See below for a detailed chart of my skills.
+
 
 ## Education
 
@@ -80,3 +82,10 @@ I'm a Tai Chi practitioner, I like MTB and Nature and I'm a strong believer in E
 
 ## More
 For additional details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/).
+
+
+## Skillset Chart
+
+<div class="picture">
+    <img src="images/Skillset.png">
+</div>  
