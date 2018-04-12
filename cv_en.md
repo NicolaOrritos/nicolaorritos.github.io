@@ -18,7 +18,8 @@ I currently live in Serdiana, near Cagliari, Sardinia.
 
 [@Website](http://nicolaorritos.github.io) -
 [@GitHub](https://github.com/NicolaOrritos) -
-[@LinkedIn](https://www.linkedin.com/in/nicolaorritos)
+[@LinkedIn](https://www.linkedin.com/in/nicolaorritos) -
+[@CV](http://nicolaorritos.github.io/cv_en.html)
 
 
 ## Experience
@@ -66,7 +67,7 @@ I worked with Apache, Nginx and I know how to configure Linux-based systems (Arc
 Lately I'm focusing my efforts in studying Data Science with Python, mainly because I'm eager to dive in the Machine Learning field.  
 I also studied two blockchain platforms, Bitcoin and Ethereum, focusing my efforts on the Solidity smart-contracts language and on _Dapps_ (Ethereum _Distributed apps_) development using _web3.js_.
 
-See below for a detailed chart of my skills.
+See [below](#skillset-chart) for a detailed chart of my skills.
 
 
 ## Education
@@ -84,7 +85,8 @@ I'm a Tai Chi practitioner, I like MTB and Nature and I'm a strong believer in E
 For additional details and contact info see my [LinkedIn profile](http://it.linkedin.com/in/nicolaorritos/).
 
 
-## Skillset Chart
+## <a name="skillset-chart"></a>Skillset Chart
+[Click](images/Skillset.png) for a bigger version of the chart:
 
 <div class="picture">
     <a href="images/Skillset.png" title="Skillset Chart - Click for a bigger version">
