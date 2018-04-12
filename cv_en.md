@@ -87,5 +87,7 @@ For additional details and contact info see my [LinkedIn profile](http://it.link
 ## Skillset Chart
 
 <div class="picture">
-    <img src="images/Skillset.png">
+    <a href="images/Skillset.png">
+        <img src="images/Skillset.png" style="max-width: 720px;">
+    </a>
 </div>  
